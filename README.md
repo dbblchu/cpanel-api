@@ -1,7 +1,6 @@
 ## cPanel/WHM API for PHP library
 
-
-[https://github.com/humolot/cPanel-API-Simple-PHP](Orginal Repository)
+<a href="https://github.com/humolot/cPanel-API-Simple-PHP">Orginal Repository</a>
 
 ## Contents
 - [Installation Guide](#installation-guide)
